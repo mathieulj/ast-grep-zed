@@ -1,0 +1,32 @@
+id = "ast-grep"
+name = "ast-grep LSP"
+version = "0.1.0"
+schema_version = 1
+authors = ["Mathieu Letendre-Jauniaux <mathieulj@gmail.com>"]
+description = "ast-grep LSP support in Zed. Get warnings and errors directly in your editor."
+repository = "https://github.com/mathieulj/ast-grep-zed"
+
+[language_servers.ast-grep]
+name = "ast-grep LSP"
+languages = [
+    "Bash",
+    "C",
+    "C++",
+    "CSharp",
+    "CSS",
+    "Elixir",
+    "Go",
+    "Haskell",
+    "HTML","Java","JavaScript",
+    "JSON",
+    "Kotlin",
+    "Lua",
+    "Php",
+    "Python",
+    "Ruby",
+    "Rust",
+    "Scala",
+    "Swift",
+    "TypeScript",
+    "Yaml"
+]

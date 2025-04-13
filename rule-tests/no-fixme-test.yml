@@ -1,0 +1,12 @@
+id: no-fixme
+valid:
+  - "// some text"
+  - const fixme = "str";
+  - todo!()
+invalid:
+  - "// hack: is bad"
+  - "// HACK: is very bad"
+  - "// fixme: we should indeed"
+  - "// FIXME: we really should indeed"
+  - "// todo: then maybe create an issue"
+  - "// TODO: what are you waiting for"

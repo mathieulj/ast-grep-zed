@@ -1,0 +1,38 @@
+id: no-fixme
+snapshots:
+  '// FIXME: we really should indeed':
+    labels:
+    - source: '// FIXME: we really should indeed'
+      style: primary
+      start: 0
+      end: 33
+  '// HACK: is very bad':
+    labels:
+    - source: '// HACK: is very bad'
+      style: primary
+      start: 0
+      end: 20
+  '// TODO: what are you waiting for':
+    labels:
+    - source: '// TODO: what are you waiting for'
+      style: primary
+      start: 0
+      end: 33
+  '// fixme: we should indeed':
+    labels:
+    - source: '// fixme: we should indeed'
+      style: primary
+      start: 0
+      end: 26
+  '// hack: is bad':
+    labels:
+    - source: '// hack: is bad'
+      style: primary
+      start: 0
+      end: 15
+  '// todo: then maybe create an issue':
+    labels:
+    - source: '// todo: then maybe create an issue'
+      style: primary
+      start: 0
+      end: 35

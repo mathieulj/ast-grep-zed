@@ -1,0 +1,10 @@
+id: no-fixme
+language: Rust
+rule:
+  any:
+    - kind: line_comment
+    - kind: block_comment
+  regex: (?i:fixme|todo|hack)
+message: |-
+  TODO|FIXME|HACK comments should be removed before committing
+severity: warning
