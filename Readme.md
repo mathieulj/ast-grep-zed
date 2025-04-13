@@ -2,7 +2,7 @@
 
 ## Setup
 
-Assumes ast-grep is available globally. You must install it yourself and either make it available on the `$PATH` or manually override the binary path (see below).
+Assumes ast-grep is available globally. You must [install it yourself](https://ast-grep.github.io/guide/quick-start.html#installation) and either make it available on the `$PATH` or manually override the binary path (see below).
 
 ## Using a non default installation of ast-grep
 
