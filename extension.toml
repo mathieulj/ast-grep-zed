@@ -28,5 +28,6 @@ languages = [
     "Scala",
     "Swift",
     "TypeScript",
-    "Yaml"
+    "Yaml",
+    "TOML",
 ]
