@@ -1,6 +1,6 @@
 id = "ast-grep"
 name = "ast-grep LSP"
-version = "0.1.0"
+version = "0.1.1"
 schema_version = 1
 authors = ["Mathieu Letendre-Jauniaux <mathieulj@gmail.com>"]
 description = "ast-grep LSP support in Zed. Get warnings and errors directly in your editor."
@@ -28,5 +28,6 @@ languages = [
     "Scala",
     "Swift",
     "TypeScript",
+    "TSX",
     "Yaml"
 ]
