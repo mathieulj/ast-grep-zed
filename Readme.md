@@ -52,7 +52,7 @@ If your `sgconfig.yml` is not at the project root, you must manually specify it'
 
 ### Toml
 
-`Ast-grep` doesn't support `toml`, but it's easy to add it following the [instruction for custom languages][custom-language].
+`Ast-grep` doesn't support `toml` by default, but it's easy to add it following the [instruction for custom languages][custom-language].
 Tested with [tree-sitter-grammars/tree-sitter-toml](https://github.com/tree-sitter-grammars/tree-sitter-toml).
 
 [custom-language]: https://ast-grep.github.io/advanced/custom-language.html#custom-language-support
