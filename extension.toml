@@ -29,4 +29,5 @@ languages = [
     "Swift",
     "TypeScript",
     "YAML"
+    "TOML",
 ]
