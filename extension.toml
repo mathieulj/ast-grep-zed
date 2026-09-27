@@ -27,8 +27,8 @@ languages = [
     "Rust",
     "Scala",
     "Swift",
+    "TOML",
     "TSX",
     "TypeScript",
-    "YAML",
-    "TOML"
+    "YAML"
 ]
