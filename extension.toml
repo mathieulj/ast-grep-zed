@@ -21,12 +21,12 @@ languages = [
     "JSON",
     "Kotlin",
     "Lua",
-    "Php",
+    "PHP",
     "Python",
     "Ruby",
     "Rust",
     "Scala",
     "Swift",
     "TypeScript",
-    "Yaml"
+    "YAML"
 ]
